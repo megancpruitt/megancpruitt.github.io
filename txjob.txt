@@ -1,3 +1,0 @@
-Sex	One	Two	Three	Four	Five	Six	Seven	Eight	Nine	Ten
-Male	442	456	400	246	175	18	452	180	185	353
-Female	393	639	587	252	452	3	9	9	98	57
